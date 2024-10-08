@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ra29gmf67ya72445?svg=true)](https://ci.appveyor.com/project/Kateshenyang/http-frontend)
